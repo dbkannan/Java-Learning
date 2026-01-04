@@ -15,7 +15,13 @@ class Solution {
     // Function to find the largest element in the array
     public int largest(int[] arr) {
         // Write your logic here
-        
+         int Max = arr[0];
+        for(int i=1; i<arr.length; i++){
+            if(arr[i]>Max){
+                Max = arr[i];
+            }
+        }
+        return Max;
     }
     
     // DO NOT MODIFY BELOW THIS LINE
