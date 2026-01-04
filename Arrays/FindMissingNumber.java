@@ -16,7 +16,12 @@ class Solution {
     // Array contains n-1 elements from 1 to n
     public int missingNumber(int n, int arr[]) {
         // Write your logic here
-        
+         long sum = 0;
+         for(int i=0; i<arr.length;i++){
+             sum = sum + arr[i];
+         }
+         long result = n * (n + 1) / 2;
+         return (int) (result-sum);
     }
     
     // DO NOT MODIFY BELOW THIS LINE
