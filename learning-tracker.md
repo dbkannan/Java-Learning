@@ -1,15 +1,15 @@
 # 📊 Java Interview Preparation - Learning Tracker
 
-**Last Updated:** 3 January 2026
+**Last Updated:** 4 January 2026
 
 ---
 
 ## 🎯 Progress Overview
 
 - **Total Problems:** 55
-- **Completed:** 0
+- **Completed:** 1
 - **In Progress:** 0
-- **Not Started:** 55
+- **Not Started:** 54
 
 ---
 
@@ -20,7 +20,7 @@
 | Arrays | Reverse Array | https://www.geeksforgeeks.org/problems/reverse-an-array/1 | Not Started | - | - | - |
 | Arrays | Largest Element | https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0 | Not Started | - | - | - |
 | Arrays | Second Largest | https://www.geeksforgeeks.org/problems/second-largest3735/1 | Not Started | - | - | - |
-| Arrays | Find Missing Number | https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1 | Not Started | - | - | - |
+| Arrays | Find Missing Number | https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1 | Completed | 04 Jan 2026 | 04 Jan 2026 | ✅ |
 | Arrays | Leaders in Array | https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1 | Not Started | - | - | - |
 | Strings | Reverse String | https://www.geeksforgeeks.org/problems/reverse-a-string/1 | Not Started | - | - | - |
 | Strings | Palindrome Check | https://www.geeksforgeeks.org/problems/palindrome-string0817/1 | Not Started | - | - | - |
@@ -81,17 +81,18 @@
 
 | Date | Problems Solved | Topics Covered | Notes |
 | ---- | -------------- | -------------- | ----- |
+| 04 Jan | 1 | Arrays | Find Missing Number ✅ |
 | 03 Jan | 0 | - | Repository setup complete |
 
 ---
 
 ## 🔥 Current Streak
 
-- **GeeksForGeeks Streak:** 0 days
-- **GitHub Commit Streak:** 0 days
+- **GeeksForGeeks Streak:** 1 day
+- **GitHub Commit Streak:** 1 day
 
 ---
 
 ## 🎯 Next Up
 
-Start with **Arrays** → **Reverse Array**
+**Arrays** → **Reverse Array** (or continue with any Arrays problem)
