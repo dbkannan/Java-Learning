@@ -7,9 +7,9 @@
 ## 🎯 Progress Overview
 
 - **Total Problems:** 55
-- **Completed:** 2
+- **Completed:** 3
 - **In Progress:** 0
-- **Not Started:** 53
+- **Not Started:** 52
 
 ---
 
@@ -17,7 +17,7 @@
 
 | Topic | Problem Name | GFG Link | Status | Date Started | Date Completed | GitHub Commit |
 | ----- | ------------ | -------- | ------ | ------------ | -------------- | ------------- |
-| Arrays | Reverse Array | https://www.geeksforgeeks.org/problems/reverse-an-array/1 | Not Started | - | - | - |
+| Arrays | Reverse Array | https://www.geeksforgeeks.org/problems/reverse-an-array/1 | Completed | 05 Jan 2026 | 05 Jan 2026 | ✅ |
 | Arrays | Largest Element | https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0 | Completed | 04 Jan 2026 | 04 Jan 2026 | ✅ |
 | Arrays | Second Largest | https://www.geeksforgeeks.org/problems/second-largest3735/1 | Not Started | - | - | - |
 | Arrays | Find Missing Number | https://www.geeksforgeeks.org/problems/missing-number-in-array1416/1 | Completed | 04 Jan 2026 | 04 Jan 2026 | ✅ |
@@ -81,6 +81,7 @@
 
 | Date | Problems Solved | Topics Covered | Notes |
 | ---- | -------------- | -------------- | ----- |
+| 05 Jan | 1 | Arrays | Reverse Array ✅ |
 | 04 Jan | 2 | Arrays | Find Missing Number ✅, Largest Element ✅ |
 | 03 Jan | 0 | - | Repository setup complete |
 
@@ -95,4 +96,4 @@
 
 ## 🎯 Next Up
 
-**Arrays** → **Reverse Array** (or continue with any Arrays problem)
+**Arrays** → **Second Largest** (or continue with any Arrays problem)

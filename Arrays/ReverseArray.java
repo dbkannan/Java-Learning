@@ -16,7 +16,16 @@ class Solution {
     // You need to modify the array in-place
     public void reverseArray(int arr[]) {
         // Write your logic here
-        
+        int left  = 0;
+         int right = arr.length-1;
+         int temp;
+         while(left<right){
+          temp = arr[left];
+          arr[left] = arr[right];
+          arr[right] = temp;
+          left++;
+          right--;
+        }
     }
     
     // DO NOT MODIFY BELOW THIS LINE
